@@ -1,0 +1,23 @@
+body{
+  padding: 25px;
+  background-color:#D8C3A5;
+}
+.title {
+	color: #5C6AC4;
+	text-align: center;
+}
+.image { 
+  width:200px;
+  height: auto;
+  display: block;
+  margin-right:auto;
+  margin-left:auto;
+}
+.num {
+  text-align: center;
+  font-size: 50px;
+  color:#C9634D ;
+}
+.image { 
+ border-radius: 15px; 
+}
